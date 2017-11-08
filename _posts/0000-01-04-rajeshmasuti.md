@@ -8,4 +8,4 @@ title: "Welcome to our slide deck!"
 
 And the winner is SVN!
 
-Oh, there's been a  mistake, GitHub is the winner! 
+Oh, there's been a  mistake, GitHub is the winner!
