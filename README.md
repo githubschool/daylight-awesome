@@ -26,6 +26,18 @@ Please take a moment to complete the class survey at: https://goo.gl/WbPSgd.
 - [GitSchool - Visualizing Git](http://git-school.github.io/visualizing-git/)
 - [LearnGitBranching](http://learngitbranching.js.org/?NODEMO)
 
+## Resources Referenced During Class
+- [Training-Utils](https://github.com/github/training-utils)
+- [Code Owners](https://github.com/blog/2392-introducing-code-owners)
+- [Phil Haack's Aliases](https://haacked.com/archive/2014/07/28/github-flow-aliases/)
+- [Git Ignore](https://help.github.com/articles/ignoring-files/)
+- [Eclipse Webcast](https://resources.github.com/webcasts/GitHub-and-Eclipse/)
+- [GitHub and SourceTree](https://github.com/GSoft-SharePoint/Dynamite/wiki/Getting-started-with-SourceTree,-Git-and-git-flow)
+- [Webhooks](https://developer.github.com/webhooks/)
+- [Extra Merge Tools](https://stackoverflow.com/questions/137102/whats-the-best-visual-merge-tool-for-git) There are sooo many. It depends on your current dev environment, here's a robust list that includes a few my team might use outside of the CLI.
+- [Jasper Issue Management](https://jasperapp.io)
+- [Follow-up Class Q+A](https://github.com/githubschool/daylight-awesome/issues/19)
+
 ### Class Images
 - [Git Configuration Levels](https://services.github.com/on-demand/images/config-levels.jpg)
 - [The Two Stage Commit](https://services.github.com/on-demand/images/two-stage-commit-a.jpg)
